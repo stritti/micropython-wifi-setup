@@ -5,7 +5,7 @@
     ["micropython-wifi-setup/schedule.py", "github:stritti/micropython-wifi-setup/lib/schedule.py"],
     ["micropython-wifi-setup/shim.py", "github:stritti/micropython-wifi-setup/lib/shim.py"],
     ["micropython-wifi-setup/micro_web_srv_2/http_request.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_request.py"],
-    ["micropython-wifi-setup/micro_web_srv_2/http_respnose.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_respnose.py"],
+    ["micropython-wifi-setup/micro_web_srv_2/http_response.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_response.py"],
     ["micropython-wifi-setup/micro_web_srv_2/status-code.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/status-code.py"],
     ["micropython-wifi-setup//micro_web_srv_2/libs/url_utils.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/url_utils.py"],
     ["micropython-wifi-setup/micro_web_srv_2/libs/xasync_sockets.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/xasync_sockets.py"]
