@@ -4,19 +4,16 @@
     ["micropython-wifi-setup/micro_dns_srv.py", "github:stritti/micropython-wifi-setup/lib/micro_dns_srv.py"],
     ["micropython-wifi-setup/schedule.py", "github:stritti/micropython-wifi-setup/lib/schedule.py"],
     ["micropython-wifi-setup/shim.py", "github:stritti/micropython-wifi-setup/lib/shim.py"],
-    
     ["micropython-wifi-setup/micro_web_srv_2/http_request.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_request.py"],
     ["micropython-wifi-setup/micro_web_srv_2/http_response.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_response.py"],
     ["micropython-wifi-setup/micro_web_srv_2/status-code.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/status-code.py"],
     ["micropython-wifi-setup//micro_web_srv_2/libs/url_utils.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/url_utils.py"],
     ["micropython-wifi-setup/micro_web_srv_2/libs/xasync_sockets.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/xasync_sockets.py"],
-    
     ["micropython-wifi-setup/slim/fileserver_module.py", "github:stritti/micropython-wifi-setup/lib/slim/fileserver_module.py"],
     ["micropython-wifi-setup/slim/single_socket_pool.py", "github:stritti/micropython-wifi-setup/lib/slim/single_socket_pool.py"],
     ["micropython-wifi-setup/slim/slim_config.py", "github:stritti/micropython-wifi-setup/lib/slim/slim_config.py"],
     ["micropython-wifi-setup/slim/slim_server.py", "github:stritti/micropython-wifi-setup/lib/slim/slim_server.py"],
     ["micropython-wifi-setup/slim/web_route_module.py", "github:stritti/micropython-wifi-setup/lib/slim/web_route_module.py"],
-    
     ["micropython-wifi-setup/wifi_setup/captive_portal.py", "github:stritti/micropython-wifi-setup/lib/wifi_setup/captive_portal.py"],
     ["micropython-wifi-setup/wifi_setup/credentials.py", "github:stritti/micropython-wifi-setup/lib/wifi_setup/credentials.py"],
     ["micropython-wifi-setup/wifi_setup/wifi_setup.py", "github:stritti/micropython-wifi-setup/lib/wifi_setup/wifi_setup.py"],
@@ -32,11 +29,6 @@
     ["micropython-wifi-setup/wifi_setup/www/assets/fonts/roboto-latin-400.woff2", "github:stritti/micropython-wifi-setup/lib/wifi_setup//www/assets/fonts/roboto-latin-400.woff2"],
     ["micropython-wifi-setup/wifi_setup/www/assets/fonts/roboto-latin-500.woff2", "github:stritti/micropython-wifi-setup/lib/wifi_setup//www/assets/fonts/roboto-latin-500.woff2"],
     ["micropython-wifi-setup/wifi_setup/www/assets/svg/icons.svg.gz", "github:stritti/micropython-wifi-setup/lib/wifi_setup//www/assets/svg/icons.svg.gz"]
-    
-    
-    
-    
-    
   ],
   "deps": [
     ["logging", "latest"]
