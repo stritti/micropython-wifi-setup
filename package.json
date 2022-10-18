@@ -3,7 +3,13 @@
     ["README.md", "github:stritti/micropython-wifi-setup/lib/README.md"],
     ["micro_dns_srv.py", "github:stritti/micropython-wifi-setup/lib/micro_dns_srv.py"],
     ["schedule.py", "github:stritti/micropython-wifi-setup/lib/schedule.py"],
-    ["shim.py", "github:stritti/micropython-wifi-setup/lib/shim.py"]
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/shim.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_request.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/http_respnose.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/status-code.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/url_utils.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/micro_web_srv_2/libs/xasync_sockets.py"]
+    
   ],
   "deps": [
     ["logging", "latest"]
