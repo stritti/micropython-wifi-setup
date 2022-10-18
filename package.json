@@ -1,9 +1,9 @@
 {
   "urls": [
-    ["README.md", "github:george-hawkins/micropython-wifi-setup/lib/README.md"],
-    ["micro_dns_srv.py", "github:george-hawkins/micropython-wifi-setup/lib/micro_dns_srv.py"],
-    ["schedule.py", "github:george-hawkins/micropython-wifi-setup/lib/schedule.py"],
-    ["shim.py", "github:george-hawkins/micropython-wifi-setup/lib/shim.py"]
+    ["README.md", "github:github:stritti/micropython-wifi-setup/lib/README.md"],
+    ["micro_dns_srv.py", "github:stritti/micropython-wifi-setup/lib/micro_dns_srv.py"],
+    ["schedule.py", "github:stritti/micropython-wifi-setup/lib/schedule.py"],
+    ["shim.py", "github:stritti/micropython-wifi-setup/lib/shim.py"]
   ],
   "deps": [
     ["logging", "latest"]
